@@ -77,7 +77,10 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=fbasatemur&theme=darkhub&column=7)](https://github.com/fbasatemur/github-profile-trophy)
 
+---
 
+<img src="https://github.com/fbasatemur/fbasatemur/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  
 <!--Profile Counter 
 ![Visitor Count](https://profile-counter.glitch.me/fbasatemur/count.svg)-->
  
