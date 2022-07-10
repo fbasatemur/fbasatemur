@@ -39,9 +39,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" style="vertical-align:top margin:6px 4px">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" style="vertical-align:top margin:6px 4px">
   <img src="https://img.shields.io/badge/Flutter-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" style="vertical-align:top margin:6px 4px">
-  <img src="https://img.shields.io/badge/QT-3FC74F?style=for-the-badge&logo=qt&logoColor=white" alt="qt" style="vertical-align:top margin:6px 4px">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top margin:6px 4px">
-    
+
   <br>
   <img src="https://img.shields.io/badge/Keras-F05032?style=for-the-badge&logo=keras&logoColor=white" alt="keras" style="vertical-align:top margin:6px 4px">
   <img src="https://img.shields.io/badge/Pytorch-F05032?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" style="vertical-align:top margin:6px 4px">
@@ -61,6 +59,9 @@
   <img src="https://img.shields.io/badge/MsSQL-5C2D91?style=for-the-badge&logoColor=white" alt="mssql" style="vertical-align:top margin:6px 4px">
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt="fireb" style="vertical-align:top margin:6px 4px">
   <img src="https://img.shields.io/badge/Colab-DD8A00?style=for-the-badge&logo=google+colab&logoColor=white" alt="colab" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/QT-3FC74F?style=for-the-badge&logo=qt&logoColor=white" alt="qt" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top margin:6px 4px">
+    
   
   <br>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vsc" style="vertical-align:top margin:6px 4px">
