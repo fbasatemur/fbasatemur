@@ -51,14 +51,17 @@
    </div>
   
   <div>
+    <img src="https://img.shields.io/badge/Boost C++-FFFFFF?style=for-the-badge&logo=boost&logoColor=black" alt="Boost" style="vertical-align:top margin:6px 4px">
     <img src="https://img.shields.io/badge/Eigen-FFFFFF?style=for-the-badge&logo=eigen&logoColor=white" alt="intel" style="vertical-align:top margin:6px 4px">
     <img src="https://img.shields.io/badge/OpenMP-006F78?style=for-the-badge&logo=openmp&logoColor=white" alt="ocv" style="vertical-align:top margin:6px 4px">
     <img src="https://img.shields.io/badge/CUDA-Runtime API-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CRT" style="vertical-align:top margin:6px 4px">
+    <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CRT" style="vertical-align:top margin:6px 4px">
     <img src="https://img.shields.io/badge/Intel SSE/AVX-0078D6?style=for-the-badge&logo=intel&logoColor=white" alt="intel" style="vertical-align:top margin:6px 4px">
     <img src="https://img.shields.io/badge/ARM NEON-238FBE?style=for-the-badge&logo=arm&logoColor=white" alt="arm" style="vertical-align:top margin:6px 4px">
   </div>
      
  <div>
+  <img src="https://img.shields.io/badge/Protobuf-FFFFFF?style=for-the-badge&logo=protouf&logoColor=white" alt="protobuf" style="vertical-align:top margin:6px 4px">
   <img src="https://img.shields.io/badge/MySQL-DD8A00?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top margin:6px 4px">
   <img src="https://img.shields.io/badge/MsSQL-5C2D91?style=for-the-badge&logoColor=white" alt="mssql" style="vertical-align:top margin:6px 4px">
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt="fireb" style="vertical-align:top margin:6px 4px">
@@ -73,14 +76,11 @@
   <img src="https://img.shields.io/badge/Clion-3FC74F?style=for-the-badge&logo=clion&logoColor=white" alt="clion" style="vertical-align:top margin:6px 4px">
   <img src="https://img.shields.io/badge/Pycharm-6AD599?style=for-the-badge&logo=pycharm&logoColor=white" alt="pycharm" style="vertical-align:top margin:6px 4px">
   <img src="https://img.shields.io/badge/Spyder-76B900?style=for-the-badge&logo=anaconda&logoColor=white" alt="spyder" style="vertical-align:top margin:6px 4px">
-  <img src="https://img.shields.io/badge/Jupyter-76B900?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" style="vertical-align:top margin:6px 4px">
- </div>
-  
- <div>
-  <img src="https://img.shields.io/badge/Ryzen_4600H-ffffff?style=for-the-badge&logo=AMD&logoColor=black" alt="cpu" style="vertical-align:top margin:6px 4px">
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1650TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="gpu" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/Jupyter-DD8A00?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" style="vertical-align:top margin:6px 4px">
+ 
   <img src="https://img.shields.io/badge/Pop_OS! & Ubuntu 22_04-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" style="vertical-align:top margin:6px 4px">
- </div>
+
+</div>
   
 </p>
 </a>  
@@ -96,12 +96,6 @@
 ---
 
 <img src="https://github.com/fbasatemur/fbasatemur/blob/master/github-metrics.svg" alt="Metrics" width="60%">
-
-
-<!--START_SECTION:waka-->
-
-
-<!--END_SECTION:waka-->
 
 ---
   
