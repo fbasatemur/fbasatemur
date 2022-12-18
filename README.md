@@ -94,8 +94,14 @@
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fbasatemur&theme=github_dark)](https://github.com/fbasatemur) -->
   
 ---
-  
+
 <img src="https://github.com/fbasatemur/fbasatemur/blob/master/github-metrics.svg" alt="Metrics" width="60%">
+
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
 
 ---
   
