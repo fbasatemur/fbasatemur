@@ -103,7 +103,7 @@
 
 ---
 
-<img src="https://github.com/fbasatemur/fbasatemur/raw/output/github-contribution-grid-snake.svg" alt="snake">
+<img src="https://github.com/fbasatemur/fbasatemur/raw/output/github-snake-dark.svg" alt="snake">
   
 <!--Profile Counter 
 ![Visitor Count](https://profile-counter.glitch.me/fbasatemur/count.svg)-->
