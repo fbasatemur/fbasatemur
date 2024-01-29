@@ -9,13 +9,13 @@
 
 
 <p align="center">
-  <img src="https://socialify.git.ci/fbasatemur/fbasatemur/image?description=0&font=Source%20Code%20Pro&forks=0&issues=0&language=1&name=1&owner=1&pattern=Solid&pulls=0&stargazers=0&theme=Dark" alt="fbasatemur" width="700" height="300" />
+  <img src="https://socialify.git.ci/fbasatemur/fbasatemur/image?description=0&font=Source%20Code%20Pro&forks=0&issues=0&language=1&name=1&owner=1&pattern=Solid&pulls=0&stargazers=0&theme=Dark" alt="fbasatemur" height="250" />
 </p>
 
 <p align="center">
   <br/>
     <a href="https://www.linkedin.com/in/fbasatemur">
-      <img alt="fbasatemur's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+      <img alt="fbasatemur's LinkdeIN" height="46px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
     </a>
     <a href="https://open.spotify.com/user/31vhc2ns37rtlr2lb6feax4pwlkq">
       <img alt="fbasatemur's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
@@ -66,7 +66,7 @@ past experiences:
 
 langs: ["Cpp", "Python", "C", "Java", "Matlab"]
 
-lib_or_systems: ["ROS", "Docker", "Protobuf & Flatbuf", "GStreamer & FFMPEG", "PyTorch", "CudaRT", "OpenMP", "Eigen", "OpenCV", "Keras", "TensorRT", "Intel SSE", "ARM NEON"]
+lib_or_systems: ["ROS", "Docker", "Protobuf & Flatbuf", "GStreamer & FFMPEG", "CudaRT", "OpenMP", "PyTorch | OpenCV | Keras | TensorRT | Eigen", "Intel SSE", "ARM NEON"]
 
 technical_background: ["Software Architectural Design", "Real-Time Systems",
 "Computer Vision", "Deep Learning", "Mobile Robotics", "Parallel Programming", "Optimization"]
