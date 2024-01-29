@@ -41,8 +41,8 @@
 </p> <br> -->
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31vhc2ns37rtlr2lb6feax4pwlkq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false", height=125>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vhc2ns37rtlr2lb6feax4pwlkq&count=2", width=400>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31vhc2ns37rtlr2lb6feax4pwlkq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false", height=130>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vhc2ns37rtlr2lb6feax4pwlkq&count=3", width=350>
 </p>
 
 
