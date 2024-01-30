@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://socialify.git.ci/fbasatemur/fbasatemur/image?description=0&font=Source%20Code%20Pro&forks=0&issues=0&language=1&name=1&owner=1&pattern=Solid&pulls=0&stargazers=0&theme=Dark" alt="fbasatemur" height="250" />
+  <img src="https://socialify.git.ci/fbasatemur/fbasatemur/image?description=0&font=Source%20Code%20Pro&forks=0&issues=0&language=0&name=1&owner=1&pattern=Solid&pulls=0&stargazers=0&theme=Dark" alt="fbasatemur" height="250" />
 </p>
 
 <p align="center">
