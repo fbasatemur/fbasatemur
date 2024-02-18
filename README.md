@@ -43,8 +43,9 @@
         <a href="mailto:fatihbasatemur@gmail.com?subject=Hello, from Github" >gmail/fbasatemur</a> <br>
 </p> <br> -->
 
+<!-- GET A AUTHENTICATION https://github.com/kittinan/spotify-github-profile?tab=readme-ov-file -->
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dch3ofn33fl7rcywysejwzqgli&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false", height=130>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dch3ofn33fl7rcywysejwzqgli&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true", height=130>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dch3ofn33fl7rcywysejwzqgli&count=3", width=350>
 </p>
 
