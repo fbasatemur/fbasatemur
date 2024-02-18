@@ -26,15 +26,16 @@
   <br>
 </p>
 
+
 <p align="center">
   <a href="https://github.com/fbasatemur?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/fbasatemur?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    <img alt="stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/fbasatemur"/>
   </a>
   <a href="https://github.com/fbasatemur?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/fbasatemur?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="fllws" title="Follow me on Github" src="https://img.shields.io/github/followers/fbasatemur"/>
   </a>
   <a href="https://github.com/fbasatemur/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=fbasatemur&color=dc143c&style=for-the-badge&label=VIEWERS"/>     
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=fbasatemur&color=lightgrey&style=flat&abbreviated=true&label=VIEWERS"/>     
   </a>
 </p>
   
@@ -63,23 +64,24 @@ education:
   - ["Master's in Computer Engineering" | Visual Mapping on UAVs] 
   - ["Bachelor's in Computer Engineering" | Autonoum Tissue Mapping]
 past experiences: 
-  - ["AI Software Engineer", "UAV", "Computer Vision", "Mobile Robotics", "2021-*"]
-  - ["AI Software Engineer Intern", "UAV", "AI", "Software Development", "2021-3M"]
-  - ["Computer Vision Software Developer Intern", "Medical", "Computer Vision & Deep Learning", "TUBITAK", "2021-7M"]
-  - ["Computer Vision Intern", "Medical", "Image Processing", "CV Lab of Karadeniz Technical University", "2020-3M"]
+  - ["AI Software Developer", "UAV", "Computer Vision", "Mobile Robotics", "2021-*"]
+  - ["AI Software Developer Intern", "UAV", "AI", "Software Development", "2021-3M"]
+  - ["AI Research & Development Intern", "Medical", "Computer Vision & Deep Learning", "TUBITAK", "2021-7M"]
+  - ["Software Developer Intern", "Medical", "Image Processing", "CV Lab of Karadeniz Technical University", "2020-3M"]
 
 langs: ["Cpp", "Python", "C", "Java", "Matlab"]
 
-lib_or_systems: ["ROS", "Docker", "Protobuf & Flatbuf", "GStreamer & FFMPEG", "CudaRT", "OpenMP", "PyTorch | OpenCV | Keras | TensorRT | Eigen", "Intel SSE", "ARM NEON"]
+lib_or_systems: ["ROS", "Docker", "Protobuf & Flatbuf", "GStreamer & FFMPEG", "CudaRT", "OpenMP",
+                 "PyTorch | OpenCV | Keras | TensorRT | Eigen", "Intel SSE", "ARM NEON"]
 
-technical_background: ["Software Architectural Design", "Real-Time Systems",
-"Computer Vision", "Deep Learning", "Mobile Robotics", "Parallel Programming", "Optimization"]
+technical_background: ["Software Architectural Design", "Real-Time Systems", "Autonomous UAV Systems", 
+                       "Computer Vision", "Deep Learning", "Mobile Robotics", "Parallel Programming"]
 
-currently_learning: ["VSLAM", "Swarm UAV Concepts" ]
+currently_learning: ["VIO-VSLAM", "Swarm UAV Concepts" ]
 
 will_learn: ["LLM & Multi Functional Vision Models"]
 
-hobbies: ["nullopt"]
+hobbies: ["Explore newly published articles", "Surfing between github issues"]
 ```
 
 
