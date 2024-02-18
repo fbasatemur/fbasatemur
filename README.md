@@ -14,11 +14,14 @@
 
 <p align="center">
   <br/>
-    <a href="https://www.linkedin.com/in/fbasatemur">
-      <img alt="fbasatemur's LinkdeIN" height="46px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+  <!--
+    <a href="https://www.linkedin.com/in/">
+      <img alt="LinkdeIN" height="46px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
     </a>
-    <a href="https://open.spotify.com/user/31vhc2ns37rtlr2lb6feax4pwlkq">
-      <img alt="fbasatemur's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+  -->
+    <!-- GET A AUTHENTICATION ID https://spotify-recently-played-readme.vercel.app/ -->
+    <a href="https://open.spotify.com/user/31dch3ofn33fl7rcywysejwzqgli">
+      <img alt="Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
     </a>
   <br>
 </p>
