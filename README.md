@@ -20,7 +20,7 @@
     </a>
   -->
     <!-- GET A AUTHENTICATION ID https://spotify-recently-played-readme.vercel.app/ -->
-    <a href="https://open.spotify.com/user/31dch3ofn33fl7rcywysejwzqgli">
+    <a href="https://open.spotify.com/user/31hj2bvcdghtjl4bm7np3okvxh7m">
       <img alt="Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
     </a>
   <br>
@@ -46,8 +46,8 @@
 
 <!-- GET A AUTHENTICATION https://github.com/kittinan/spotify-github-profile?tab=readme-ov-file -->
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dch3ofn33fl7rcywysejwzqgli&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true", height=130>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dch3ofn33fl7rcywysejwzqgli&count=3", width=350>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hj2bvcdghtjl4bm7np3okvxh7m&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true", height=130>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hj2bvcdghtjl4bm7np3okvxh7m&count=3", width=350>
 </p>
 
 
